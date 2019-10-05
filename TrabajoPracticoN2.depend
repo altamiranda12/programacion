@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1570235311 source:c:\users\user\desktop\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1570232810 c:\users\user\desktop\arrayemployees.h
+
+1570218740 c:\users\user\desktop\utn.h
+
+1570233754 source:c:\users\user\desktop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1570218740 source:c:\users\user\desktop\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1570235311 source:c:\users\user\desktop\trabajopracticon2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1570232810 c:\users\user\desktop\trabajopracticon2\arrayemployees.h
+
+1570218740 c:\users\user\desktop\trabajopracticon2\utn.h
+
+1570233754 source:c:\users\user\desktop\trabajopracticon2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1570218740 source:c:\users\user\desktop\trabajopracticon2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
